@@ -1,5 +1,6 @@
 # Yang (Dev-Creeper)
-# University Student.Java Development
+# University Student
+# Java Development
 
 # About Me
 Hi,I'm Dev-Creeper.
